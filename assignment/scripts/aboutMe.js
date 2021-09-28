@@ -1,3 +1,4 @@
+// console.log('js') was shown in one of the instructional videos, is it necessary for me to put here?
 console.log('js');
 
 // REQUIRED FEATURES:
