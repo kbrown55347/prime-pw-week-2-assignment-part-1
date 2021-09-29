@@ -1,4 +1,3 @@
-// Question - console.log('js') was shown in one of the instructional videos, do I need to put it here too? Why or why not?
 console.log('js');
 
 // REQUIRED FEATURES:
@@ -17,9 +16,6 @@ let luckyNumber = 9;
 // 'My name is (full name), and I think (lucky number) is a winner!'.
 // Refer back to the videos if you need help with this one.
 console.log('My name is ' + fullName + ', and I think', luckyNumber, 'is a winner!');
-// Question - I originally tried using the following format: console.log('My name is', fullName, ', and I think'...);
-// but it showed an unwanted space before the comma: My name is Kelsey Brown , and I think...
-// Am I able to use that format without the + for fullName and get rid of the unwanted space?
 
 // 7 - Create a variable named `adventurous` and set it to a boolean value (true or false)
 let adventurous = true;
